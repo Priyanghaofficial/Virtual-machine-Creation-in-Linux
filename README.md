@@ -38,7 +38,8 @@ cat /etc/hostname
 ### REG NUMBER:212223040157
 ### NAME:Priyangha G
 ![image](https://github.com/user-attachments/assets/1de361e0-3c46-457e-96a8-f6781bbc1f07)
-![Uploading Screenshot (572).png…]()
+![Screenshot (572)](https://github.com/user-attachments/assets/9fc44f91-e213-4d90-9cc0-aa57cbfb03ac)
+
 
  
 ## RESULT
