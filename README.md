@@ -2,7 +2,7 @@
   ## AIM
        To Install Virtualbox / VMware Workstation with different flavours of linux.
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
+    The project aims to create a robust multiplatform virtual setup that can be used for development, testing, and exploring different Linux environments.
 
 ## ALGORITHM
  ### Steps 1:Open VirtualBox or VMware Workstation
